@@ -228,7 +228,7 @@
                                 <div class="col-12 mb-4">
                                     <div class="card box-show py-md-5 wow fadeInUp" data-wow-delay=".4s">
                                         <div class="card-body">
-                                            <h3 class="text-paste-color">$10.00</h3>
+                                            <h3 class="text-paste-color">10%</h3>
                                             <p class="mb-0">Referral bonus</p>
                                         </div>
                                     </div>
